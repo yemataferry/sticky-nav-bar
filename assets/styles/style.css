@@ -57,7 +57,7 @@ body {
 }
 
 .nav.active .container {
-  padding: 10px 0 ;  
+  padding: 10px 0; 
 }
 
 .nav a.current,
@@ -68,7 +68,7 @@ body {
 }
 
 .hero {
-  background-image: url('../images/office3.jpg');
+  background-image: url("../images/office3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center;
@@ -95,10 +95,10 @@ body {
 .hero h1 {
   font-size: 46px;
   margin: -20px 0 20px;
-  color: rgb(247, 203, 8);
+  color: #f7cb08;
 }
 
-.hero p  {
+.hero p {
   font-size: 20px;
   letter-spacing: 1px;
 }
